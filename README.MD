@@ -30,7 +30,7 @@ pip install scikit-learn seaborn pandas numpy matplotlib shap
 1. Clone o repositório:
 
 ```shell
-git https://github.com/antonionettodev/heart-disease.git
+git clone https://github.com/antonionettodev/heart-disease.git
 cd heart-disease
 ```
 
