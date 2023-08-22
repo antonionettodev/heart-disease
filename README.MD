@@ -30,8 +30,8 @@ pip install scikit-learn seaborn pandas numpy matplotlib shap
 1. Clone o repositório:
 
 ```shell
-git clone https://github.com/seu_usuario/seu_projeto.git
-cd seu_projeto
+git https://github.com/antonionettodev/heart-disease.git
+cd heart-disease
 ```
 
 2.Abra o Jupyter Notebook:
